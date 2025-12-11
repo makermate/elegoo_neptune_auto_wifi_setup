@@ -1,5 +1,7 @@
 # MakerMate WiFi for Elegoo Neptune 4
 
+You can try it here: https://www.makermate.org/wifi-neptune
+
 Automatically install persistent Wi‑Fi on Neptune 4 printers with a single USB swap (install stick → Wi‑Fi dongle).
 
 ## Quick start (use the prebuilt USB)
